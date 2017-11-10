@@ -24,6 +24,120 @@ tr {
 .td3 {
     padding: 0 0 0 120px;
 }
+/*--------------------Link til anim --------------------*/
+
+/*--------------------historie idé--------------------*/
+
+.historie_ide p {
+    width: 65vw;
+}
+
+/*--------------------historie beskrivelse--------------------*/
+.historie_beskrivelse p {
+    width: 65vw;
+}
+
+
+/*--------------------storyboard--------------------*/
+
+.storyboard img {
+    width: 65vw;
+}
+
+/*--------------------flowchart--------------------*/
+
+.flowchart img {
+    width: 65vw;
+}
+
+/*--------------------moodboard--------------------*/
+
+.moodboard img {
+    width: 65vw;
+}
+
+/*--------------------målgruppe--------------------*/
+
+.mlgruppe_beskrivelse li {
+    font-size: 1em;
+    margin: 2px 0;
+    color: white;
+}
+
+/*--------------------personaer--------------------*/
+
+.emil img {
+    width: 25vw;
+}
+
+.emil {
+    margin: 0 0 50px 0;
+}
+
+.emil h3 {
+    border-bottom: solid #89cce5;
+    border-bottom-width: 1px;
+}
+
+.emil p {
+    width: 65vw;
+}
+
+
+.oline img {
+    width: 25vw;
+}
+.oline h3 {
+    border-bottom: solid #89cce5;
+    border-bottom-width: 1px;
+}
+
+.oline p {
+    width: 65vw;
+}
+
+/*--------------------styletile--------------------*/
+
+.styletile img {
+    width: 20vw;
+}
+
+.styletile img:hover {
+     opacity: .6;
+}
+
+/*--------------------scenografi--------------------*/
+
+.scenografi img {
+    width: 65vw;
+}
+
+/*--------------------layoutdiagram--------------------*/
+
+/*--------------------sekvensdiagram--------------------*/
+.sekvensdiagram img {
+    width: 20vw;
+}
+
+.sekvensdiagram img:hover {
+     opacity: .6;
+}
+/*--------------------assets--------------------*/
+
+/*--------------------test--------------------*/
+
+/*--------------------trello--------------------*/
+
+.trello a {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+.trello a:hover {
+    font-size: 1.8em;
+    color: #ef8f1f;
+}
+
 
 /*-----------------------font-------------*/
 
@@ -45,6 +159,11 @@ tr {
     color: white;
 }
 
+b {
+    font-size: 1.2em;
+    color: #89cce5;
+}
+
 p {
     font-size: 1.2em;
     margin: 2px 0;
@@ -64,9 +183,9 @@ h2 {
 }
 
 h3 {
-    font-size: 1.2em;
+    font-size: 2em;
     margin: 5px 0;
-    color: #ffffff;
+    color: #89cce5;
 }
 
 footer {
