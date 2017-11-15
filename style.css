@@ -25,9 +25,11 @@ tr {
 .td2 {
     padding: 0 0 0 100px;
 }
+
 .td3 {
     padding: 0 0 0 120px;
 }
+
 /*--------------------Link til anim --------------------*/
 
 /*--------------------historie idé--------------------*/
@@ -37,6 +39,7 @@ tr {
 }
 
 /*--------------------historie beskrivelse--------------------*/
+
 .historie_beskrivelse p {
     width: 65vw;
 }
@@ -91,6 +94,7 @@ tr {
 .oline img {
     width: 25vw;
 }
+
 .oline h3 {
     border-bottom: solid #89cce5;
     border-bottom-width: 1px;
@@ -107,7 +111,7 @@ tr {
 }
 
 .styletile img:hover {
-     opacity: .6;
+    opacity: .6;
 }
 
 /*--------------------scenografi--------------------*/
@@ -119,13 +123,15 @@ tr {
 /*--------------------layoutdiagram--------------------*/
 
 /*--------------------sekvensdiagram--------------------*/
+
 .sekvensdiagram img {
     width: 20vw;
 }
 
 .sekvensdiagram img:hover {
-     opacity: .6;
+    opacity: .6;
 }
+
 /*--------------------assets--------------------*/
 
 /*--------------------test--------------------*/
@@ -142,10 +148,16 @@ tr {
     color: #ef8f1f;
 }
 
+/*--------------------burndown chart--------------------*/
+
+.burndown_chart {
+    background-image: url(media/burndown_chart.JPG);
+    width: 65vw;
+}
 
 /*-----------------------font-------------*/
 
-.hvid{
+.hvid {
     color: #ffffff;
 }
 
@@ -196,5 +208,3 @@ footer {
     color: #89cce5;
     padding: 50px 0;
 }
-
-
