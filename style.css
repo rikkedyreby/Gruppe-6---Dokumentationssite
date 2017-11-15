@@ -136,6 +136,23 @@ tr {
 
 /*--------------------test--------------------*/
 
+.test a {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+.test a:hover {
+    font-size: 1.8em;
+    color: #ef8f1f;
+}
+
+/*--------------------fernis-stand--------------------*/
+
+.foto img {
+    width: 65vw;
+
+}
+
 /*--------------------trello--------------------*/
 
 .trello a {
@@ -150,8 +167,8 @@ tr {
 
 /*--------------------burndown chart--------------------*/
 
-.burndown_chart {
-    background-image: url(media/burndown_chart.JPG);
+.burndown img {
+    height: 100vw;
     width: 65vw;
 }
 
