@@ -30,7 +30,10 @@ tr {
     padding: 0 0 0 120px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 /*--------------------Link til anim --------------------*/
 
 
@@ -142,7 +145,10 @@ tr {
     opacity: .6;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 /*--------------------assets--------------------*/
 
 .assetliste img {
@@ -156,6 +162,25 @@ tr {
 
 /*--------------------test--------------------*/
 
+<<<<<<< HEAD
+=======
+.test a {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+.test a:hover {
+    font-size: 1.8em;
+    color: #ef8f1f;
+}
+
+/*--------------------fernis-stand--------------------*/
+
+.foto img {
+    width: 65vw;
+
+}
+>>>>>>> origin/master
 
 /*--------------------trello--------------------*/
 
@@ -169,6 +194,12 @@ tr {
     color: #ef8f1f;
 }
 
+/*--------------------burndown chart--------------------*/
+
+.burndown img {
+    height: 100vw;
+    width: 65vw;
+}
 
 /*-----------------------font-------------*/
 
