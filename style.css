@@ -34,58 +34,53 @@ tr {
 .td3 {
     padding: 0 0 0 120px;
 }
-
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 /*--------------------Link til anim --------------------*/
 
 
 /*--------------------historie idé--------------------*/
 
-.historie_ide p {
+#historie_ide p {
     width: 65vw;
 }
 
 
 /*--------------------historie beskrivelse--------------------*/
 
-.historie_beskrivelse p {
+#historie_beskrivelse p {
     width: 65vw;
 }
 
 
 /*--------------------storyboard--------------------*/
 
-.storyboard img {
+#storyboard img {
     width: 65vw;
 }
 
 
 /*--------------------flowchart--------------------*/
 
-.flowchart img {
+#flowchart img {
     width: 65vw;
 }
 
 
 /*--------------------moodboard--------------------*/
 
-.layoutdiagram img {
+#layoutdiagram img {
     width: 65vw;
 }
 
 /*--------------------moodboard--------------------*/
 
-.moodboard img {
+#moodboard img {
     width: 65vw;
 }
 
 
 /*--------------------målgruppe--------------------*/
 
-.mlgruppe_beskrivelse li {
+#mlgruppe_beskrivelse li {
     font-size: 1em;
     margin: 2px 0;
     color: white;
@@ -127,18 +122,18 @@ tr {
 
 /*--------------------styletile--------------------*/
 
-.styletile img {
+#styletile img {
     width: 20vw;
 }
 
-.styletile img:hover {
+#styletile img:hover {
     opacity: .6;
 }
 
 
 /*--------------------scenografi--------------------*/
 
-.scenografi img {
+#scenografi img {
     width: 65vw;
 }
 
@@ -148,66 +143,59 @@ tr {
 
 /*--------------------sekvensdiagram--------------------*/
 
-.sekvensdiagram img {
+#sekvensdiagram img {
     width: 20vw;
 }
 
-.sekvensdiagram img:hover {
+#sekvensdiagram img:hover {
     opacity: .6;
 }
-
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 /*--------------------assets--------------------*/
 
-.assetliste img {
+#assetliste img {
     width: 20vw;
 }
 
-.assetliste img:hover {
+#assetliste img:hover {
     opacity: .6;
 }
 
 
 /*--------------------test--------------------*/
 
-<<<<<<< HEAD
-=======
-.test a {
+
+#test a {
     font-size: 1.8em;
     color: #ffffff;
 }
 
-.test a:hover {
+#test a:hover {
     font-size: 1.8em;
     color: #ef8f1f;
 }
 
 /*--------------------fernis-stand--------------------*/
 
-.foto img {
+#foto img {
     width: 65vw;
 
 }
->>>>>>> origin/master
 
 /*--------------------trello--------------------*/
 
-.trello a {
+#trello a {
     font-size: 1.8em;
     color: #ffffff;
 }
 
-.trello a:hover {
+#trello a:hover {
     font-size: 1.8em;
     color: #ef8f1f;
 }
 
 /*--------------------burndown chart--------------------*/
 
-.burndown img {
+#burndown img {
     height: 100vw;
     width: 65vw;
 }
@@ -264,3 +252,64 @@ footer {
     color: #89cce5;
     padding: 50px 0;
 }
+
+
+header {
+    position:fixed;
+    width: 20vw;
+    height: 30vw;
+    padding: 1.5em;
+    left: 75%;
+}
+
+header p {
+
+    font-family: "Roboto", sans-serif;
+    text-align:right;
+    color: #ef8f1f;
+    font-size: 5em;
+
+}
+
+header nav {
+    font-family: "Roboto", sans-serif;
+    text-align:right;
+    margin: 0 2vw 0 0;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 10px;
+    display: block;
+}
+
+header nav a:hover {
+    color: #ef8f1f;
+    /*en anden farve når musen går henover*/
+}
+
+/*
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #111;
+}*/
