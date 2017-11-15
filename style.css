@@ -9,6 +9,7 @@ div {
     width: 65vw;
 }
 
+
 /*--------------------Tabel--------------------*/
 
 table1 {
@@ -19,16 +20,22 @@ table1 {
 
 tr {
     color: white;
-
 }
 
 .td2 {
     padding: 0 0 0 100px;
 }
+
 .td3 {
     padding: 0 0 0 120px;
 }
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> origin/master
 /*--------------------Link til anim --------------------*/
+
 
 /*--------------------historie idé--------------------*/
 
@@ -36,7 +43,9 @@ tr {
     width: 65vw;
 }
 
+
 /*--------------------historie beskrivelse--------------------*/
+
 .historie_beskrivelse p {
     width: 65vw;
 }
@@ -48,11 +57,13 @@ tr {
     width: 65vw;
 }
 
+
 /*--------------------flowchart--------------------*/
 
 .flowchart img {
     width: 65vw;
 }
+
 
 /*--------------------moodboard--------------------*/
 
@@ -66,6 +77,7 @@ tr {
     width: 65vw;
 }
 
+
 /*--------------------målgruppe--------------------*/
 
 .mlgruppe_beskrivelse li {
@@ -73,6 +85,7 @@ tr {
     margin: 2px 0;
     color: white;
 }
+
 
 /*--------------------personaer--------------------*/
 
@@ -93,10 +106,10 @@ tr {
     width: 65vw;
 }
 
-
 .oline img {
     width: 25vw;
 }
+
 .oline h3 {
     border-bottom: solid #89cce5;
     border-bottom-width: 1px;
@@ -106,6 +119,7 @@ tr {
     width: 65vw;
 }
 
+
 /*--------------------styletile--------------------*/
 
 .styletile img {
@@ -113,8 +127,9 @@ tr {
 }
 
 .styletile img:hover {
-     opacity: .6;
+    opacity: .6;
 }
+
 
 /*--------------------scenografi--------------------*/
 
@@ -122,19 +137,56 @@ tr {
     width: 65vw;
 }
 
+
 /*--------------------layoutdiagram--------------------*/
 
+
 /*--------------------sekvensdiagram--------------------*/
+
 .sekvensdiagram img {
     width: 20vw;
 }
 
 .sekvensdiagram img:hover {
-     opacity: .6;
+    opacity: .6;
 }
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> origin/master
 /*--------------------assets--------------------*/
 
+.assetliste img {
+    width: 20vw;
+}
+
+.assetliste img:hover {
+    opacity: .6;
+}
+
+
 /*--------------------test--------------------*/
+
+<<<<<<< HEAD
+=======
+.test a {
+    font-size: 1.8em;
+    color: #ffffff;
+}
+
+.test a:hover {
+    font-size: 1.8em;
+    color: #ef8f1f;
+}
+
+/*--------------------fernis-stand--------------------*/
+
+.foto img {
+    width: 65vw;
+
+}
+>>>>>>> origin/master
 
 /*--------------------trello--------------------*/
 
@@ -148,17 +200,22 @@ tr {
     color: #ef8f1f;
 }
 
+/*--------------------burndown chart--------------------*/
+
+.burndown img {
+    height: 100vw;
+    width: 65vw;
+}
 
 /*-----------------------font-------------*/
 
-.hvid{
+.hvid {
     color: #ffffff;
 }
 
 .orange {
     color: #ef8f1f;
 }
-
 
 .blue {
     color: #89cce5;
@@ -202,5 +259,3 @@ footer {
     color: #89cce5;
     padding: 50px 0;
 }
-
-
