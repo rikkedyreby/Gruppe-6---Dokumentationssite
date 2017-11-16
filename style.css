@@ -258,8 +258,7 @@ header {
     position:fixed;
     width: 20vw;
     height: 30vw;
-    padding: 1.5em;
-    left: 75%;
+    left: 75vw;
 }
 
 header p {
